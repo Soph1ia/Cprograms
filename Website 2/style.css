@@ -1,0 +1,250 @@
+/*---------------Global ---------- */
+
+* {
+    font-family: 'header';
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+button {
+    width: 277px;
+    height: 75px;
+    background-color: #A196D4;
+    color: rgba(255, 255, 255, 0.5);
+    border: solid transparent;
+    border-radius: 10px;
+    font-size: 2em;
+}
+
+button:hover {
+    background-color: #998fc9;
+    cursor: pointer;
+}
+
+h1 {
+    font-size: 130px;
+}
+
+a {
+    text-decoration: none;
+    color: #998fc9;
+}
+
+/*-----------First Slide -----------------*/
+
+.first {
+    background-image: url('Images/LandingImg.svg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: right;
+    height: 100%;
+
+}
+
+.nav {
+    padding: 20px;
+}
+
+h6 {
+    padding: 0;
+    margin: 0;
+    font-size: 1.5em;
+    margin-right: 30px;
+    opacity: 0.5;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.homeBtn {
+    height: 30px;
+    width: 60px;
+    font-size: 10px;
+    display: inline-block;
+}
+
+
+.header {
+    width: 45%;
+    text-align: center;
+    font-size: 120px;
+    opacity: 0.74;
+    line-height: 0.7;
+    margin-top: 1em;
+}
+
+.with {
+    color: grey;
+    font-size: 70%;
+    opacity: 1.0;
+}
+
+.butt {
+    width: 40%;
+    text-align: center;
+    padding: 20px;
+}
+
+.joinBtn {
+    text-align: center;
+    background-color: transparent;
+    border: solid 2px #A196D4;
+    color: #A196D4;
+}
+
+.joinBtn:hover {
+    font-weight: 600;
+    background-color: transparent;
+}
+
+/* -----------------------OUR Products ------------*/
+
+.content_2 {
+    padding: 0;
+    margin: 0;
+    background-image: url('Images/sideThreeTubes.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+    height: 100%;
+}
+
+.second h2 {
+    font-size: 60px;
+    opacity: 0.7;
+    padding: 2em 1em 1em 1em;
+}
+
+.product img {
+    width: 10em;
+}
+
+.product {
+    display: inline-block;
+    vertical-align: text-top;
+}
+
+.product h4 {
+    width: 10em;
+    opacity: 0.8;
+}
+
+.second {
+    float: right;
+    width: 50%;
+    text-align: center;
+}
+
+.second .product {
+    margin: 20px;
+}
+
+
+/* --------------------- OUR team ----------------------- */
+
+.content_3 {
+    width: 100%;
+}
+
+.team {
+    text-align: center;
+}
+
+.team h2 {
+    font-size: 5em;
+    width: 100%;
+    color: rgba(0, 0, 0, 0.6);
+    background-image: url('Images/lightblueBubble.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+}
+
+.member {
+    display: inline-block;
+    padding: 2em;
+    vertical-align: top;
+    width: 10em;
+}
+
+.member img {
+    width: 10em;
+}
+
+.member h3 {
+    margin: 1em;
+}
+
+/* ---------------------------Research ------------- */
+
+.content_4 {
+    width: 100%;
+    background-image: url('Images/microscope.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    height: 100%;
+}
+
+.research h1 {
+    padding-top: 1em;
+    opacity: 0.7;
+}
+
+.research {
+    width: 50%;
+    text-align: center;
+}
+
+.research p {
+    margin: 1em 0em 1em 0em;
+    font-size: 1.2em;
+}
+
+.research button {
+    border-radius: 10px;
+    width: 20%;
+    height: 3em;
+    font-size: 80%;
+}
+
+/* -------------------------- Join Us ------------- */
+
+.content_5 {
+    text-align: center;
+    background-image: url('Images/joinUsBg.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+}
+
+.content_5 h1,
+.content_5 button {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.content_5 h1 {
+    padding-right: 2em;
+}
+
+.content_5 button {
+    margin: 2em;
+}
+
+/* -----------------fonts----------------------- */
+
+@font-face {
+    font-family: 'header';
+    src: url('font/CircularStd-Book.otf');
+}
+
+@font-face {
+    font-family: 'body';
+    src: url('font/CircularStd-Medium.otf');
+}

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 306 306">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(94,93,93,0.06);
+        stroke: #707070;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #ecf7ff;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke-width: 4px;
+        fill-rule: evenodd;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #484d78;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-5 {
+        fill: #6a77c6;
+        stroke-width: 3px;
+      }
+
+      .cls-6 {
+        opacity: 0.79;
+      }
+
+      .cls-7 {
+        fill: #212121;
+        opacity: 0.2;
+      }
+
+      .cls-10, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        opacity: 0.5;
+      }
+
+      .cls-10 {
+        opacity: 0.6;
+      }
+
+      .cls-11 {
+        filter: url(#Ellipse_3);
+      }
+    </style>
+    <filter id="Ellipse_3" x="0" y="0" width="306" height="306" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.086" y1="0.079" x2="0.886" y2="0.604" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c5a1ee"/>
+      <stop offset="1" stop-color="#635177"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_25" data-name="Group 25" transform="translate(-1104 -1521)">
+    <g id="Group_21" data-name="Group 21" transform="translate(-97)">
+      <g class="cls-11" transform="matrix(1, 0, 0, 1, 1201, 1521)">
+        <circle id="Ellipse_3-2" data-name="Ellipse 3" class="cls-1" cx="137" cy="137" r="137" transform="translate(11 6)"/>
+      </g>
+      <g id="Group_16" data-name="Group 16" transform="translate(125 -444)">
+        <g id="Group_15" data-name="Group 15" transform="translate(-61 -643)">
+          <path id="Shape" class="cls-2" d="M124.747,116.145a8.513,8.513,0,0,1-6.019,14.484H75.465a8.7,8.7,0,0,1-6.019-2.445A8.513,8.513,0,0,1,75.465,113.7h43.264A8.7,8.7,0,0,1,124.747,116.145Z" transform="translate(1188.304 2558.818)"/>
+          <path id="Shape-2" data-name="Shape" class="cls-3" d="M113.382,189.125v45.569c0,24.856-9.217,39.355-20.691,39.355S72,259.55,72,241.5V181.741C89.305,158.364,98.71,212.8,113.382,189.125Z" transform="translate(1192.709 2580.928)"/>
+          <path id="Shape-3" data-name="Shape" class="cls-2" d="M113.382,142l-.484,78.4c-14.672,14.951-23.593-19.716-40.9-4.952V142Z" transform="translate(1192.368 2551.58)"/>
+          <rect id="Rectangle-path" class="cls-2" width="41.382" height="17.494" transform="translate(1264.709 2689.447)"/>
+          <path id="Shape-4" data-name="Shape" class="cls-4" d="M149,140.194V122.7h41.382v17.494" transform="translate(1115.709 2566.748)"/>
+          <path id="Shape-5" data-name="Shape" class="cls-4" d="M190.382,142V261.377c0,18.1-9.217,28.659-20.691,28.659S149,279.478,149,266.334V142" transform="translate(1115.709 2564.941)"/>
+          <path id="Shape-6" data-name="Shape" class="cls-4" d="M195.728,113.7H152.465A8.429,8.429,0,0,0,144,122.165h0a8.429,8.429,0,0,0,8.465,8.465h43.264a8.429,8.429,0,0,0,8.465-8.465h0A8.429,8.429,0,0,0,195.728,113.7Z" transform="translate(1111.304 2558.818)"/>
+          <path id="Shape-7" data-name="Shape" class="cls-5" d="M155.1,194.5h.129" transform="translate(1128.386 2624.519)"/>
+          <path id="Shape-8" data-name="Shape" class="cls-4" d="M149,185.542c17.305-23.183,26.71,25.53,41.382,2.054" transform="translate(1115.709 2582.693)"/>
+          <g id="Group_13" data-name="Group 13" class="cls-6" transform="translate(1256.785 2674.964)">
+            <rect id="Rectangle-path-2" data-name="Rectangle-path" class="cls-7" width="40.818" height="8.653" transform="translate(6.96 14.296)"/>
+            <path id="Shape-9" data-name="Shape" class="cls-8" d="M84.924,112.029v-3.574h0a1.286,1.286,0,0,1,1.317-1.317h39.878l-3.762-3.762H88.686A5.566,5.566,0,0,1,90.567,103H80.974a5.566,5.566,0,0,0-1.881.376H71.569L69.5,107.138h4.326a1.6,1.6,0,0,1,1.5,1.317h0v3.574a5.669,5.669,0,0,0,5.831,5.455h9.781C87.558,117.3,84.924,115.039,84.924,112.029Z" transform="translate(-69.5 -103)"/>
+            <path id="Shape-10" data-name="Shape" class="cls-9" d="M88.1,115.2H77v7.336c0,3.01,11.1,3.01,11.1,0Z" transform="translate(-62.892 -92.252)"/>
+          </g>
+          <path id="Shape-11" data-name="Shape" class="cls-10" d="M91.1.9H80V75.953a5.459,5.459,0,0,0,5.455,5.455h0a5.459,5.459,0,0,0,5.455-5.455V.9Z" transform="translate(1190.044 2716)"/>
+          <path id="Shape-12" data-name="Shape" class="cls-5" d="M155.1,194.5h.129" transform="translate(1120.386 2617.519)"/>
+          <path id="Shape-13" data-name="Shape" class="cls-5" d="M155.1,194.5h.129" transform="translate(1137.386 2597.519)"/>
+          <path id="Shape-14" data-name="Shape" class="cls-5" d="M155.1,194.5h.129" transform="translate(1139.386 2546.519)"/>
+          <path id="Shape-15" data-name="Shape" class="cls-5" d="M155.1,194.5h.129" transform="translate(1129.386 2556.519)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
